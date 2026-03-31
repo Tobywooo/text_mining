@@ -3,7 +3,9 @@ ita_wine_reviews.csv dataset supplied by UNCC. This is for M.S. DSBA 6211 Advanc
 Text Preprocessing: Preprocess the text data in the “description” column. Include tokenization, lowercasing, stopword removal, and any other necessary steps (e.g., punctuation removal, stemming/lemmatization). 
 
 ![alt text](images/image-1.png)
+
 Word Clouds: Create a word cloud for the “description” column after preprocessing. 
+
 ![alt text](images/image-1.png)
 ![alt text](images/image-2.png)
 

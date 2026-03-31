@@ -2,6 +2,7 @@
 ita_wine_reviews.csv dataset supplied by UNCC. This is for M.S. DSBA 6211 Advanced Business Analytics assignment 3 on text mining 
 Text Preprocessing: Preprocess the text data in the “description” column. Include tokenization, lowercasing, stopword removal, and any other necessary steps (e.g., punctuation removal, stemming/lemmatization). 
 ![alt text](image.png)
+
 Word Clouds: Create a word cloud for the “description” column after preprocessing. 
 ![alt text](image-1.png)
 ![alt text](image-2.png)

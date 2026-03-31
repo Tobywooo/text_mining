@@ -1,0 +1,13 @@
+pandas
+matplotlib
+seaborn
+scikit-learn
+numpy   
+prophet
+statsmodels
+ipykernel
+jupyterlab
+nltk
+wordcloud
+gensim
+pyLDAvis

@@ -11,3 +11,4 @@ nltk
 wordcloud
 gensim
 pyLDAvis
+xgboost
